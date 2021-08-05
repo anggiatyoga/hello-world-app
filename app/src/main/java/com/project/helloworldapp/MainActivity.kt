@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val tvHello: TextView = findViewById(R.id.tv_hello)
-        tvHello.text = "Hello Kedua"
+        tvHello.text = "Hello Pull Request"
     }
 }
